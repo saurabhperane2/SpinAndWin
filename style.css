@@ -75,6 +75,7 @@ body{
     justify-content: center;
     align-items: end;
     font-size: 15vmax;
+    font-style: normal;
     box-shadow: 0vmax 1vmax 2vmax blue;
 }
 .bottom{
